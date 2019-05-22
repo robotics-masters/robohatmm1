@@ -14,3 +14,8 @@ https://github.com/adafruit/seesaw
 4. Copy the robohatmm1 uf2 firmware file onto the USB.
 
 5. The board will reset and CircuitPython is successfully installed.
+
+
+## Getting Started with SeeSaw
+
+Adafruit has a tutorial for using [SeeSaw on a Raspberry Pi](https://learn.adafruit.com/adafruit-seesaw-atsamd09-breakout/raspberry-pi-wiring-test).  This is a good starting point for those wanting to learn how SeeSaw works.
