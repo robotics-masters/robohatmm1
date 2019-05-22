@@ -17,5 +17,5 @@ https://github.com/adafruit/circuitpython/releases
 
 ## Getting Started
 
-Adafruit has a great tutorial guide for (CircuitPython Essentials Guide)[https://learn.adafruit.com/circuitpython-essentials/circuitpython-essentials]  for getting started.  We recommend checking this out.
+Adafruit has a great tutorial guide for [CircuitPython Essentials Guide](https://learn.adafruit.com/circuitpython-essentials/circuitpython-essentials)  for getting started.  We recommend checking this out.
 
