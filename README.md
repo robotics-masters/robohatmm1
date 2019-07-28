@@ -22,7 +22,11 @@ This is the starting point for anyone who has the Robo HAT MM1 and is looking to
  - 5 x Serial communication ports
  - SeeedStudio GROVE System connector
  
- 
+# Purchase
+
+Available on [Crowd Supply Campaign Page](https://www.crowdsupply.com/robotics-masters/robo-hat-mm1)
+
+
 
 ## Select a Firmware
 
