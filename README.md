@@ -29,12 +29,22 @@ Available on [Crowd Supply Campaign Page](https://www.crowdsupply.com/robotics-m
 
 ## Software Development
 
+### Robotics Masters Forks and Dev Branches
+
 - [Arduino](https://github.com/robotics-masters/mm1-hat-arduino)
 - [ArduPilot](https://github.com/robotics-masters/ardupilot)
 - [Bootloader](https://github.com/robotics-masters/mm1-hat-bootloader)
 - [CircuitPython](https://github.com/robotics-masters/mm1-hat-cpy-native)
 - [Donkey Car](https://github.com/robotics-masters/donkeycar)
 - [SeeSaw](https://github.com/robotics-masters/seesaw)
+
+### Official Repositories
+
+- [ArduPilot by ArduPilot]()
+- [Bootloader by Adafruit]()
+- [CircuitPython by Adafruit]()
+- [Donkey Car]()
+- [SeeSaw by Adafruit]()
 
 ## Developers
 
