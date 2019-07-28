@@ -48,9 +48,9 @@ Available on [Crowd Supply Campaign Page](https://www.crowdsupply.com/robotics-m
 
 ## Developers
 
-- @wallarug
-- @hmic
-- @peterpanstechland
+- [@wallarug](https://github.com/wallarug)
+- [@hmic](https://github.com/hmic)
+- [@peterpanstechland](https://github.com/peterpanstechland)
 
 
 ## Select a Firmware
