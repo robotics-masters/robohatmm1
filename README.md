@@ -40,11 +40,12 @@ Available on [Crowd Supply Campaign Page](https://www.crowdsupply.com/robotics-m
 
 ### Official Repositories
 
-- [ArduPilot by ArduPilot]()
-- [Bootloader by Adafruit]()
-- [CircuitPython by Adafruit]()
-- [Donkey Car]()
-- [SeeSaw by Adafruit]()
+- [ArduPilot by ArduPilot](https://github.com/ArduPilot/ardupilot/)
+- [Bootloader by Adafruit](https://github.com/adafruit/uf2-samdx1/)
+- [Bootloader by Microsoft](https://github.com/Microsoft/uf2-samdx1)
+- [CircuitPython by Adafruit](https://github.com/adafruit/circuitpython)
+- [Donkey Car](https://github.com/autorope/donkeycar)
+- [SeeSaw by Adafruit](https://github.com/adafruit/seesaw)
 
 ## Developers
 
