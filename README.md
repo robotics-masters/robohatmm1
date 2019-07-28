@@ -1,6 +1,6 @@
 # Robo HAT MM1
 
-
+![Robo HAT MM1 image](robohatmm1.png)
 
 The Robotics Masters Robo HAT MM1 is an open source robotics controller board for Raspberry Pi. It is education focused but works in many applications. The Robo HAT provides all the hardware you need in one simple, easy-to-use form factor. It removes the initial barriers to starting any robotics project.
 
