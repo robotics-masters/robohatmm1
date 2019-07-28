@@ -51,6 +51,6 @@ Depending on what you are doing, you will want to select the right Firmware.  Th
 * SeeSaw (SAMD21 Only): ArduPilot, Donkey Car (no RC control), Voice Robot Arm
 * Arduino IDE: backwards support for sensors
 
-# License
+## License
 
 GNU GENERAL PUBLIC LICENSE
