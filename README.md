@@ -22,10 +22,25 @@ This is the starting point for anyone who has the Robo HAT MM1 and is looking to
  - 5 x Serial communication ports
  - SeeedStudio GROVE System connector
  
-# Purchase
+## Purchase
 
 Available on [Crowd Supply Campaign Page](https://www.crowdsupply.com/robotics-masters/robo-hat-mm1)
 
+
+## Software Development
+
+- [Arduino](https://github.com/robotics-masters/mm1-hat-arduino)
+- [ArduPilot](https://github.com/robotics-masters/ardupilot)
+- [Bootloader](https://github.com/robotics-masters/mm1-hat-bootloader)
+- [CircuitPython](https://github.com/robotics-masters/mm1-hat-cpy-native)
+- [Donkey Car](https://github.com/robotics-masters/donkeycar)
+- [SeeSaw](https://github.com/robotics-masters/seesaw)
+
+## Developers
+
+- @wallarug
+- @hmic
+- @peterpanstechland
 
 
 ## Select a Firmware
@@ -36,3 +51,6 @@ Depending on what you are doing, you will want to select the right Firmware.  Th
 * SeeSaw (SAMD21 Only): ArduPilot, Donkey Car (no RC control), Voice Robot Arm
 * Arduino IDE: backwards support for sensors
 
+# License
+
+GNU GENERAL PUBLIC LICENSE
